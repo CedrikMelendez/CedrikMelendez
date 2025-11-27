@@ -10,5 +10,5 @@ I havent completed any personal projects yet :/
  _,..._|      )_-\ \_=.\
 `-....-'`------)))`=-'"`'"
 ```
-## Hackathons
+## Hackathon / School Projects
 [ClashRoom](https://github.com/CedrikMelendez/Clashroom) CampHack(NwHacks) - 2025
