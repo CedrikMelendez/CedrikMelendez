@@ -15,3 +15,6 @@
   
 - [BackAlley](https://github.com/CedrikMelendez/BackAlley) Python Final - 2025
   - MUD game developed in Python for my final Project
+
+- [HealthQuest](https://github.com/NathanH-WasTaken/HealthQuest) Team Final Project - 2025
+  - Worked with a team of 3 to complete a health based app with firebase
