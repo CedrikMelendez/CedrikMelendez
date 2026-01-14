@@ -1,6 +1,5 @@
 ## Cedrik Melendez
 ## Personal Projects 
-I havent completed any personal projects yet :/ 
 ```
              ___
           .="   "=._.---.
@@ -12,3 +11,5 @@ I havent completed any personal projects yet :/
 ```
 ## Hackathon / School Projects
 - [ClashRoom](https://github.com/CedrikMelendez/Clashroom) CampHack(NwHacks) - 2025
+- [BackAlley](https://github.com/CedrikMelendez/BackAlley) Python Final - 2025
+  - MUD game developed in Python for my final Project
